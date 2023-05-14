@@ -1,4 +1,4 @@
-# Homebrew
+# Homebrew Computing
 Homebrew Computing Project (get resources from here)
 
 
