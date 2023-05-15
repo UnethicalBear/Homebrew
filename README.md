@@ -334,7 +334,7 @@ SOFTWARE.
 ---
 
 ## Project Aims
-Unlike other homebrew computers, I wanted mine to assemble like a real computer - plugging in a RAM card, placing a CPU into a socket and then inserting peripherals, before providing power from a commonly used source (my first motherboard design uses a DC barrel jack). I also wanted to be able to use other common protocols - ideally, CPUs will be able to use PS/2 keyboards and UART communication. I'm hoping in the future they will to be able to host USB 1.1 or 2.0, probably for USB keyboards and USB flash drives
+Unlike other homebrew computers, I wanted mine to assemble like a real computer - plugging in a RAM card, placing a CPU into a socket and then inserting peripherals, before providing power from a commonly used source (my first motherboard design uses a DC barrel jack). I also wanted to be able to use other common protocols - ideally, CPUs will be able to use PS/2 keyboards and UART communication. I'm hoping in the future they will to be able to host USB 1.1 or 2.0, probably for USB keyboards and USB flash drives.
 
 ## Sub-categories
   - **ThunderEclipse**: CPUs for the project
