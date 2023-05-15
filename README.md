@@ -7,6 +7,7 @@ The license for each part of the project is shown in its "licensetype.txt" file.
 
 ### Hardware (CERN-OHL-W V2)
 Licensing is placed on the silkscreen of each PCB designed. This **cannot** be removed, even if you make a derivative work. You may add other accreditations, but it must be clear that your work originates from here. Example accreditation is shown below 
+
 <img width="396" alt="image" src="https://github.com/UnethicalBear/Homebrew/assets/78081711/4b272d5d-5909-46ca-b56d-785a6ec047a0">
 <img width="429" alt="image" src="https://github.com/UnethicalBear/Homebrew/assets/78081711/dd089813-b1fe-4684-8049-ec29b34ccf95">
 
