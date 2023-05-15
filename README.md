@@ -1,6 +1,5 @@
-# Homebrew Computing
-Homebrew Computing Project (get resources from here)
-
+# Homebrew Computing Project
+My project to make homemade computer parts, with custom architectures.
 
 ## Licensing
 The license for each part of the project is shown in its "licensetype.txt" file. This file will contain either "Hardware" or "Software". Hardware indicates the files you have downloaded are licensed under the hardware category, and Software indicates they are licensed under the Software category. The relevant licenses are shown below, as well as in the license file of the download. The licensetype.txt also will give the names and 
