@@ -1,1 +1,4 @@
-
+Need to add:
+- EasyEDA PCB files
+- Altium PCB files
+- Gerber PCB files
